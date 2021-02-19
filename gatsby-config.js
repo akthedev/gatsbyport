@@ -62,6 +62,4 @@ module.exports = {
     "MarkdownRemark.frontmatter.author": "MarkdownRemark.frontmatter.authorName"
   }
 
-  pathPrefix: "/gatsbyport",
-
 }
