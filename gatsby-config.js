@@ -62,6 +62,6 @@ module.exports = {
     "MarkdownRemark.frontmatter.author": "MarkdownRemark.frontmatter.authorName"
   }
 
-  pathPrefix: "/sky-blog",
+  pathPrefix: "/gatsbyport",
 
 }
